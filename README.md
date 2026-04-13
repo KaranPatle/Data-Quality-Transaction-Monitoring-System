@@ -34,42 +34,6 @@ This project builds an **automated Data Quality Monitoring System** that:
 ---
 
 ## 🧱 Project Workflow
-# 📊 Data Quality & Transaction Monitoring System
-
-### End-to-End Data Quality Monitoring using Python, SQL & Power BI
-
----
-
-## 📌 Problem Statement
-
-In real-world business environments, data often contains issues such as missing values, duplicates, invalid entries, and anomalies.  
-These issues can lead to incorrect analysis, misleading dashboards, and poor business decisions.
-
-Manual data validation is inefficient and does not scale with large datasets.
-
----
-
-## 🎯 Solution
-
-This project builds an **automated Data Quality Monitoring System** that:
-
-- Detects data quality issues (missing values, duplicates, anomalies)
-- Cleans and standardizes data using SQL
-- Generates automated data quality reports using Python
-- Monitors SLA (data arrival time)
-- Provides business insights through Power BI (in progress)
-
----
-
-## ⚙️ Tech Stack
-
-- **Python** (Pandas, Faker)
-- **SQL (MySQL)** for data cleaning and validation
-- **Power BI** for dashboarding (in progress)
-
----
-
-## 🧱 Project Workflow
 Data Generation → SQL Cleaning → Data Quality Checks → SLA Monitoring → Report Generation → Dashboard
 
 
