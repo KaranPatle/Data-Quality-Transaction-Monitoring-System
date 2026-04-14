@@ -71,9 +71,9 @@ The system generates a **Data Quality Report**:
 | Check              | Count | Status   |
 |-------------------|------|----------|
 | Missing Values     | 0    | OK       |
-| Negative Values    | 109  | WARNING  |
+| Negative Values    | 109  | OK  |
 | Future Dates       | 0    | OK       |
-
+| Outliers           | 0    | OK       |
 ---
 
 ## 📊 Dashboard (In Progress)
